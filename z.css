@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(orange 10%, white 50%, green 100%);
+}
+.login_div{
+    background-color: white;
+    margin-left: 330px;
+    border-radius: 10px;
+    width: 600px;
+}
+#students_header{
+    font-weight: bolder;
+    font-size: xx-large;
+}
+#btn2{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+#header{
+    margin-bottom: 15px;
+}
